@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.btn{
+    @apply appearance-none  border focus:outline-none focus:border-blue-300 rounded-sm  text-[5px]  py-[2px] px-[4px]
+}
+
+@tailwind utilities;
