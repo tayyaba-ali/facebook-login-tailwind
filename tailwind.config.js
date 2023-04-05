@@ -8,7 +8,7 @@ module.exports = {
 			},
 			screens: {
 				sm: '640px',
-				'my-breakpoint': '441px', // new breakpoint
+				'my-breakpoint': '513px', // new breakpoint
 				md: '768px',
 				lg: '1024px',
 				xl: '1280px',
